@@ -1,4 +1,4 @@
-# 👋 Hola, soy Nestor Negrín
+# <img src="assets/avatar-nd.png" width="40" height="40"> 👋 Hola, soy Nestor Negrín
 
 **Desarrollador web full-stack** · Madrid, España
 
