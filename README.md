@@ -22,7 +22,7 @@ avisos por WhatsApp y un panel de administración privado. El desarrollo
 interno se apoya en **NEXO**, un asistente de IA propio que organiza
 tareas y prioriza el trabajo del equipo en lenguaje natural.
 
-![NestDev](assets/banner.png)
+![NestDev](assets/og-nestdev.png)
 
 **Demos en producción**
 - 🍽️ [Restaurante](https://restaurante-nd.netlify.app) — reservas online + aviso automático por WhatsApp
