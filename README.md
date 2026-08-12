@@ -25,8 +25,11 @@ tareas y prioriza el trabajo del equipo en lenguaje natural.
 ![NestDev](assets/og-nestdev.png)
 
 **Demos en producción**
-- 🍽️ [Restaurante](https://restaurante-nd.netlify.app) — reservas online + aviso automático por WhatsApp
-- 🔧 [Taller mecánico](https://tallereshermanos.netlify.app) — citas en tiempo real + seguimiento por matrícula
+
+| | |
+|---|---|
+| 🍽️ Restaurante | [Ver demo](https://restaurante-nd.netlify.app) · reservas online + aviso automático por WhatsApp |
+| 🔧 Taller mecánico | [Ver demo](https://tallereshermanos.netlify.app) · citas en tiempo real + seguimiento por matrícula |
 
 🔗 [nestdev.pro](https://nestdev.pro)
 
