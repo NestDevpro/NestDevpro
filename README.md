@@ -26,10 +26,11 @@ tareas y prioriza el trabajo del equipo en lenguaje natural.
 
 **Demos en producción**
 
-| | |
-|---|---|
-| 🍽️ Restaurante | [Ver demo](https://restaurante-nd.netlify.app) · reservas online + aviso automático por WhatsApp |
-| 🔧 Taller mecánico | [Ver demo](https://tallereshermanos.netlify.app) · citas en tiempo real + seguimiento por matrícula |
+**🍽️ Restaurante** — reservas online + aviso automático por WhatsApp
+[![Demo Restaurante](assets/demo-restaurante.png)](https://restaurante-nd.netlify.app)
+
+**🔧 Taller mecánico** — citas en tiempo real + seguimiento por matrícula
+[![Demo Taller mecánico](assets/demo-taller.png)](https://tallereshermanos.netlify.app)
 
 🔗 [nestdev.pro](https://nestdev.pro)
 
@@ -43,9 +44,7 @@ tareas y prioriza el trabajo del equipo en lenguaje natural.
 
 ## 📍 Enlaces
 
-| | |
-|---|---|
-| 🌐 Web | [nestdev.pro](https://nestdev.pro) |
-| 💼 LinkedIn | [Nestor Negrín Pinto](https://www.linkedin.com/in/nestor-negr%C3%ADn-pinto-1185a0389/) |
-| 📸 Instagram | [@nestdev.pro](https://www.instagram.com/nestdev.pro) |
-| ✉️ Email | [nestor@nestdev.pro](mailto:nestor@nestdev.pro) |
+[![Web](https://img.shields.io/badge/nestdev.pro-e8c547?style=for-the-badge&logo=googlechrome&logoColor=0a0a0a)](https://nestdev.pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-negr%C3%ADn-pinto-1185a0389/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nestdev.pro)
+[![Email](https://img.shields.io/badge/Email-e8c547?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:nestor@nestdev.pro)
