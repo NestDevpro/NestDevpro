@@ -4,15 +4,15 @@
 
 Llevo más de 2 años construyendo productos web de principio a fin: desde la
 interfaz hasta la base de datos. Ahora mismo dedico la mayor parte de mi
-tiempo a **NestDev**, mi agencia de desarrollo web para negocios locales.
+tiempo a **NestDev**, mi agencia de desarrollo web para negocios locales, y a mis estudios, actualmente estudiando AI Engineering.
 
 Me interesa especialmente la automatización de procesos y la integración
 de IA en herramientas de trabajo del día a día.
 
 ## 🚀 NestDev
 
-Fundé **NestDev** en 2025: una pequeña agencia en Madrid que construye
-webs y sistemas de gestión para negocios locales (restaurantes, talleres,
+Fundé **NestDev** en 2025: una pequeña agencia digital que construye
+webs y sistemas de gestión para cualquier tipo de negocios locales (restaurantes, talleres,
 gimnasios) que no tienen acceso a las mismas herramientas digitales que
 las grandes empresas, sin la complejidad ni el coste que eso suele
 implicar.
