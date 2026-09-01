@@ -30,7 +30,7 @@ tareas y prioriza el trabajo del equipo en lenguaje natural.
 [![Demo Restaurante](assets/demo-restaurante.png)](https://restaurante-nd.netlify.app)
 
 **🌐 Soluciones digitales para tu negocio** — tu web, reservas y automatización, todo en un solo lugar
-[![Demo Taller mecánico](assets/demo-taller.png)](https://nestdev.pro)
+[![Demo NestDev](assets/demo-taller.png)](https://nestdev.pro)
 
 🔗 [nestdev.pro](https://nestdev.pro)
 
