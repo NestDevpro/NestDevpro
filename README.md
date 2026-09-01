@@ -9,7 +9,7 @@ tiempo a **NestDev**, mi agencia de desarrollo web para negocios locales, y a mi
 Me interesa especialmente la automatización de procesos y la integración
 de IA en herramientas de trabajo del día a día.
 
-## 🚀 NestDev
+# 🚀 NestDev
 
 Fundé **NestDev** en 2025: una pequeña agencia digital que construye
 webs y sistemas de gestión para cualquier tipo de negocios locales (restaurantes, talleres,
@@ -30,7 +30,7 @@ tareas y prioriza el trabajo del equipo en lenguaje natural.
 [![Demo Restaurante](assets/demo-restaurante.png)](https://restaurante-nd.netlify.app)
 
 **🔧 Taller mecánico** — citas en tiempo real + seguimiento por matrícula
-[![Demo Taller mecánico](assets/demo-taller.png)](https://tallereshermanos.netlify.app)
+[![Demo Taller mecánico](assets/demo-taller.png)](https://nestdev.prop)
 
 🔗 [nestdev.pro](https://nestdev.pro)
 
