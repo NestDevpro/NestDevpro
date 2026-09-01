@@ -1,6 +1,6 @@
 # <img src="assets/avatar-nd.png" width="56" height="56"> 👋 Hola, soy Nestor Negrín
 
-**Desarrollador web full-stack** · Madrid, España
+**Software Developer** · Madrid, España
 
 Llevo más de 2 años construyendo productos web de principio a fin: desde la
 interfaz hasta la base de datos. Ahora mismo dedico la mayor parte de mi
