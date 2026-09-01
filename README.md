@@ -30,7 +30,7 @@ tareas y prioriza el trabajo del equipo en lenguaje natural.
 [![Demo Restaurante](assets/demo-restaurante.png)](https://restaurante-nd.netlify.app)
 
 **🔧 Taller mecánico** — citas en tiempo real + seguimiento por matrícula
-[![Demo Taller mecánico](assets/demo-taller.png)](https://nestdev.prop)
+[![Demo Taller mecánico](assets/demo-taller.png)](https://nestdev.pro)
 
 🔗 [nestdev.pro](https://nestdev.pro)
 
