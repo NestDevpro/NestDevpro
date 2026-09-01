@@ -22,7 +22,7 @@ avisos por WhatsApp y un panel de administración privado. El desarrollo
 interno se apoya en **NEXO**, un asistente de IA propio que organiza
 tareas y prioriza el trabajo del equipo en lenguaje natural.
 
-![NestDev](assets/banner.svg)
+[![NestDev](assets/banner.svg)](https://portfolio.nestdev.pro/)
 
 **Demos en producción**
 
